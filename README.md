@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Amir Hamza 👋
 
-<!--
-**hamzabuzkurt/hamzabuzkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BS Data Science Student | University of Malakand
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Data Science student currently pursuing my 5th semester of BS Data Science at the University of Malakand, Pakistan.
+
+I'm interested in exploring technology, solving real-world problems, and developing my skills in programming, data analysis, and artificial intelligence.
+
+### 🚀 About Me
+
+- 🎓 BS Data Science Student
+- 🏫 University of Malakand
+- 📚 Currently in 5th Semester
+- 💻 Interested in Data Science, AI & Machine Learning
+- 🌱 Currently learning programming and data analysis
+- 🎯 Goal: Become a skilled Data Scientist
+
+### 🛠️ Areas I'm Exploring
+
+- Python
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- HTML & CSS
+- Git & GitHub
+
+### 📂 My Projects
+
+Check out my repositories to explore my learning journey and projects.
+
+### 📫 Connect With Me
+
+- GitHub: [@hamzabuzkurt](https://github.com/hamzabuzkurt)
+- LinkedIn: Add your LinkedIn profile link here
+
+---
+
+⭐ Thanks for visiting my profile!
+
+*Always learning, always building.*
+
